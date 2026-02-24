@@ -1,6 +1,7 @@
 # 1 Spatial3D 
-空间组学3D重构
- 
+3D Reconstruction of Spatial Transcriptomics Data
+
+
 # 2 空间转录组 3D 重构实战 
 - 配准：推荐paste/paste2, 准确快速。 
 - surface构建：推荐voxel/Marching Cubes这2种方法 
