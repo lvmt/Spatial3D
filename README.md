@@ -21,12 +21,12 @@
     - Expand Z: 调整Z轴间的间距（主要用于可视化Z轴方向的变化） 
   
 **4.2.1 原始结果**
-![alt text](image.png)
+![alt text](imgs/image.png)
 
 **4.2.2 调整point size结果**  
-![alt text](image-1.png)
+![alt text](imgs/image-1.png)
 
 **4.2.3 改变Expand Z的结果**  
-![alt text](image-2.png)
+![alt text](imgs/image-2.png)
 
 
