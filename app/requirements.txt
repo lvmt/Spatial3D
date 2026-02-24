@@ -1,0 +1,19 @@
+# Core Dash dependencies
+dash>=2.14.0
+plotly>=5.17.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 3D processing libraries
+pyvista>=0.42.0
+open3d>=0.17.0
+pymeshfix>=0.16.0
+pyacvd>=0.3.0
+PyMCubes>=0.1.4
+scipy>=1.11.0
+
+# File format support
+openpyxl>=3.1.0
+xlrd>=2.0.1
